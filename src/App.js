@@ -115,11 +115,12 @@ const App = () => {
             <span>React</span>
             <span>Node.js</span>
             <span>Express</span>
-            <span>MongoDB</span>
+            <span>FireBase</span>
             <span>JavaScript</span>
             <span>HTML/CSS</span>
             <span>Git & GitHub</span>
             <span>Java</span>
+            <span>SQL</span>
           </div>
         </section>
 
